@@ -4,4 +4,4 @@ Commit changes
 
 alert("Hola mundo_editado");
 
-Console.log("cambios en el archivo");
+Console.log("Cambios en el archivo");
